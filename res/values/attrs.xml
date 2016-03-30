@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <declare-styleable name="DragSortListView"> 
+        <attr name="collapsed_height" />
+        <attr name="track_drag_sort" />
+        <attr name="float_alpha" />
+        <attr name="drag_enabled" />
+        <attr name="slide_shuffle_speed" />
+        <attr name="drag_scroll_start" />
+        <attr name="max_drag_scroll_speed" />
+        <attr name="remove_animation_duration" />
+        <attr name="drop_animation_duration" />
+        <attr name="use_default_controller" />
+        <attr name="remove_enabled" />
+        <attr name="remove_mode" />
+        <attr name="sort_enabled" />
+        <attr name="drag_start_mode" />
+        <attr name="drag_handle_id" />
+        <attr name="fling_handle_id" />
+        <attr name="click_remove_id" />
+        <attr name="float_background_color" />
+    </declare-styleable>
+    
+</resources>
